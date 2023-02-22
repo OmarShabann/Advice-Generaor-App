@@ -26,5 +26,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/omarShabann/Advice-Generaor-App/)
+- Live Site URL: [live site](https://omarshabann.github.io/Advice-Generaor-App)
