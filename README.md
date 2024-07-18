@@ -26,5 +26,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://github.com/omarsha6an/Advice-Generator-App/)
-- Live Site URL: [live site](https://omarsha6an.github.io/Advice-Generator-App/)
+- Solution URL: [solution](https://github.com/omaralshaafii/Advice-Generator-App/)
+- Live Site URL: [live site](https://omaralshaafii.github.io/Advice-Generator-App/)
